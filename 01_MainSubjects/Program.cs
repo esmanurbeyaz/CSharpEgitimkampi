@@ -49,7 +49,7 @@ namespace _01_MainSubjects
             ////customerSurname = "Beyaz";
             ////customerPhone = "+90 500 400 30 20";
             ////customerEmail = "deneme@gmail.com";
-            ////district = "Boğazlıyan";
+            ////district = "Merkez";
             ////city = "Yozgat";
 
             ////Console.WriteLine("***** REZERVASYON KARTI *****");
